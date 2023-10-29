@@ -1,0 +1,3 @@
+This is a sample text file. It contains some words that will be analyzed by the Java program.
+This program will count the occurrences of words and remove common words like "this," "is," "a," and "the."
+It will also handle variations like "running" and "jumped" by treating "ed" and "ing" as the same token.
